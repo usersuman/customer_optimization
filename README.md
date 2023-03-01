@@ -11,8 +11,6 @@ Frequency — How many times has the customer purchased from our store?
 
 Monetary — How much do they spend?
 
-And identifies the areas in melbourne city to target lost customers( need attention ), to focus on the advertisement of that specific areas:
-
-
+And highlight the areas in melbourne city to target lost customers( need attention ), to focus on the advertisement of that specific areas:
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/105408258/222162113-0a3e72ec-6091-42fa-afed-8e49eb136239.png)
