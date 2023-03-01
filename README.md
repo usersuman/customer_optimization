@@ -1,4 +1,4 @@
-# customer_optimization
+# TARGET MARKETING
 -- Customers are segmented by RFM Analysis (RFM is a method used for analyzing customer value):
 
 It groups customers based on their transaction history :
